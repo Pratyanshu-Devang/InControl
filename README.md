@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning bachelor's of computer application.
 - 💞️ I’m looking to collaborate on web development
 - 📫 Contact me via pratyanshudevang@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 BlackStormHere/BlackStormHere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
