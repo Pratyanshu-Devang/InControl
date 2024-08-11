@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 I'm always open to collaboration and new opportunities. Feel free to reach out to me:
 
 - Email: pratyannshudevang@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pratyanshu-devang-44405a268?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BlwMSayhTRaW4mn9ym99d7A%3D%3D
+- LinkedIn: https://www.linkedin.com/in/pratyanshu-devang-44405a268/
 
 Let's connect and build something amazing together! 🚀
 
